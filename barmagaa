@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>برمجة علي السريع</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>برمجة علي السريع</h1>
+        <p>تعلم IT خطوة بخطوة بسرعة واحترافية</p>
+        <nav>
+            <ul>
+                <li><a href="roadmap/roadmap1.html">Roadmap البرمجة</a></li>
+                <li><a href="articles/article1.html">مقالات IT</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="intro">
+            <h2>مرحبًا بك!</h2>
+            <p>هنا هتلاقي Roadmaps، مقالات، ودروس لتعلم البرمجة وIT بسرعة وسهولة.</p>
+        </section>
+
+        <section class="features">
+            <div class="feature">
+                <h3>Roadmaps</h3>
+                <p>خطة واضحة لكل تخصص في البرمجة و IT.</p>
+            </div>
+            <div class="feature">
+                <h3>مقالات IT</h3>
+                <p>مقالات قصيرة ومفيدة تساعدك تفهم كل حاجة بسرعة.</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2026 برمجة علي السريع | جميع الحقوق محفوظة</p>
+    </footer>
+</body>
+</html>
